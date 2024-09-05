@@ -1,0 +1,36 @@
+Uri: https://kevinfalcon.vercel.app/
+File Name: C:\Users\Personal\Desktop\Nueva carpeta\kevinfalcon.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://kevinfalcon.vercel.app/avatar.png
+File Name: C:\Users\Personal\Desktop\Nueva carpeta\kevinfalcon.vercel.app\avatar.png
+Content Type: image/png
+
+Uri: https://kevinfalcon.vercel.app/favicon.png
+File Name: C:\Users\Personal\Desktop\Nueva carpeta\kevinfalcon.vercel.app\favicon.png
+Content Type: image/png
+
+Uri: https://kevinfalcon.vercel.app/gradient-1.svg
+File Name: C:\Users\Personal\Desktop\Nueva carpeta\kevinfalcon.vercel.app\gradient-1.svg
+Content Type: image/svg+xml
+
+Uri: https://kevinfalcon.vercel.app/gradient-2.svg
+File Name: C:\Users\Personal\Desktop\Nueva carpeta\kevinfalcon.vercel.app\gradient-2.svg
+Content Type: image/svg+xml
+
+Uri: https://kevinfalcon.vercel.app/gradient-3.svg
+File Name: C:\Users\Personal\Desktop\Nueva carpeta\kevinfalcon.vercel.app\gradient-3.svg
+Content Type: image/svg+xml
+
+Uri: https://kevinfalcon.vercel.app/website-boompr.webp
+File Name: C:\Users\Personal\Desktop\Nueva carpeta\kevinfalcon.vercel.app\website-boompr.webp
+Content Type: image/webp
+
+Uri: https://kevinfalcon.vercel.app/website-boomve.webp
+File Name: C:\Users\Personal\Desktop\Nueva carpeta\kevinfalcon.vercel.app\website-boomve.webp
+Content Type: image/webp
+
+Uri: https://kevinfalcon.vercel.app/_astro/index.DJFMd9cV.css
+File Name: C:\Users\Personal\Desktop\Nueva carpeta\kevinfalcon.vercel.app\_astro\index.DJFMd9cV.css
+Content Type: text/css
+
